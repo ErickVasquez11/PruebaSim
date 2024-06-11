@@ -29,7 +29,7 @@ g++ -std=c++11 -g main.cpp Mef/Mef.cpp BinaryTree/BinaryTree.cpp -o hexagonoMesh
 
 ### Paso 2: Ejecución del Programa
 
-```sh
+'''sh
 ./hexagonoMesh
 ```
 
