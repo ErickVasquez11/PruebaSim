@@ -94,7 +94,7 @@ int main() {
     Mef mef;
     mef.calculateLocalKandB(tree.root, numNodes, K, b, 1.0/420.0);
 
-    // Guardar en el archivo Mesh.dat
+    // Guardar en el archivo Mesh.dat toda la malla 
     ofstream meshFile("OutputMesh.dat");
     if (!meshFile.is_open()) {
         cerr << "Error opening file: Mesh.dat" << endl;
