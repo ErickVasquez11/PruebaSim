@@ -1,8 +1,12 @@
-Claro, aquí tienes la explicación de los pasos de compilación y ejecución, junto con una descripción adecuada para un archivo README:
+
 
 ---
 
-# Compilación y Ejecución del Programa Hexágono Mesh
+# Integrantes 
+Daniel Ernesto Morales Sigüenza 00139419
+David Alejandro Iglesias Moreno - 00047920
+Erick Fernando Quinteros Lizama - 00220619
+Erick Rickelmy Vásquez Alfaro - 00065520
 
 ## Pasos para la Compilación
 
