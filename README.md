@@ -3,10 +3,10 @@
 
 
 ## Integrantes del Proyecto
-**Daniel Ernesto Morales Sigüenza** - 00139419
-**David Alejandro Iglesias Moreno** - 00047920
-**Erick Fernando Quinteros Lizama** - 00220619
-**Erick Rickelmy Vásquez Alfaro** - 00065520
+- **Daniel Ernesto Morales Sigüenza** - 00139419
+- **David Alejandro Iglesias Moreno** - 00047920
+- **Erick Fernando Quinteros Lizama** - 00220619
+- **Erick Rickelmy Vásquez Alfaro** - 00065520
 
 
 ---
